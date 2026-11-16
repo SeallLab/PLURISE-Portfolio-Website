@@ -66,7 +66,7 @@ export default function HeroSection({ labInfo, statistics }: HeroSectionProps) {
                 <img
                   src="/LabLogo.png"
                   alt="Plurise Lab"
-                  className="h-auto w-auto object-contain drop-shadow-2xl"
+                  className="h-128 w-auto object-contain drop-shadow-2xl"
                 />
               </div>
             </div>
